@@ -12,7 +12,9 @@ Minimal examples to use libsnark.
 Please following the steps here: https://zhuanlan.zhihu.com/p/100809637
 
 
-If `git submodule update --init --recursive` errors out, please follow instructions [here](https://github.com/jieyilong/libsnark#build-instructions) to download and compile libsnark. Next, execute the following commands:
+If `git submodule update --init --recursive` errors out, please follow instructions [here](https://github.com/jieyilong/libsnark#build-instructions) to download and compile libsnark. 
+
+Next, execute the following commands, where `<PATH/TO/LIBSNARK>` points to the downloaded libsnark lib above:
 
 ```shell
 git clone https://github.com/jieyilong/libsnark_abc
